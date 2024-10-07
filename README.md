@@ -1,0 +1,3 @@
+# conventionjs
+
+Convention for Javascript.
